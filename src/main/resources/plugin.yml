@@ -1,0 +1,7 @@
+name: GeoCore
+version: 1.0.0
+main: me.docker.geocore.GeoCore
+description: The core for docker's geopol server
+author: DockerImage
+website: https://papermc.io
+api-version: 1.19
