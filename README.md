@@ -1,2 +1,2 @@
 # GeoCore
-geocore
+main repo for geocore files
